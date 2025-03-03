@@ -1,5 +1,7 @@
 📌 Resumo da Aplicação: Importador de Arquivos para Oracle (WPF)
-Esta aplicação WPF (Windows Presentation Foundation) permite que o usuário importe múltiplos arquivos de texto para um banco de dados Oracle. Durante a importação, o progresso é exibido em tempo real, tanto em uma barra de progresso quanto em um gauge gráfico (medidor circular de progresso), utilizando a biblioteca LiveCharts.Wpf.
+Esta aplicação WPF (Windows Presentation Foundation) permite que o usuário importe múltiplos arquivos de texto para um banco de dados Oracle. 
+Durante a importação, o progresso é exibido em tempo real, tanto em uma barra de progresso quanto em um gauge gráfico (medidor circular de progresso), 
+utilizando a biblioteca LiveCharts.Wpf.
 
 🚀 Principais Funcionalidades
 ✅ Seleção de Arquivos → Permite escolher um ou mais arquivos .txt para importação.
